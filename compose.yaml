@@ -1,0 +1,13 @@
+services:
+  Mars:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3001:3001"
+  enceladus:
+    build:
+      context: .
+      dockerfile: Enceladus/Dockerfile
+    ports:
+      - "3002:3000" #HOST:DOCKER - don't change the docker port

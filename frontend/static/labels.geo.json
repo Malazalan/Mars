@@ -1,0 +1,309 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uno Islands",
+        "type": "region",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.42480468749999,
+          49.453842594330744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valinor",
+        "type": "nation",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.0217,
+          50.2908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halcyon",
+        "type": "nation",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.1961,
+          49.7263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amyrlin",
+        "type": "nation",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.60034179687499,
+          47.724544549099676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gallifrey",
+        "type": "nation",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.049560546875,
+          47.71715357016648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malazan",
+        "type": "nation",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.3798828125,
+          45.61403741135093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halycon Strait",
+        "type": "geographical",
+        "labelAngle": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.1794,
+          50.0783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gulf of Malazan",
+        "type": "geographical",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.25927734375,
+          47.0664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Gallifrain Channel",
+        "type": "geographical",
+        "labelAngle": -30,
+        "shape": "Marker",
+        "category": "default"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.612303,
+          48.64444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bay of Valinor",
+        "type": "geographical",
+        "labelAngle": 0,
+        "shape": "Marker",
+        "category": "default"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.200923,
+          49.842121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strait of Storms",
+        "type": "geographical",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.4374,
+          46.0045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malaz Island",
+        "type": "geographical",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.8912,
+          46.3166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caladan",
+        "type": "nation",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.416822,
+          48.589326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arakeen Isles",
+        "type": "region",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.34443,
+          50.115735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riparian Rift",
+        "type": "geographical",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "coordinates": [
+          -65.41957696507741,
+          47.92150964488587
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tranquil Channel",
+        "type": "geographical",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "coordinates": [
+          -57.995850862558086,
+          50.90324005442258
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lauren",
+        "type": "geographical",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "coordinates": [
+          -76.128364252,
+          42.99932577
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurald Galain Sea",
+        "type": "geographical",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "coordinates": [
+          -58.57542290434171,
+          46.46122618951219
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Citadel",
+        "type": "geographical",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "coordinates": [
+          -75.4064128,
+          43.2251948
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bomber Command",
+        "type": "geographical",
+        "labelAngle": 0
+      },
+      "geometry": {
+        "coordinates": [
+          -1.600000,
+          54.966667
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}

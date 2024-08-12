@@ -1,0 +1,141 @@
+body {
+    background: #000;
+}
+
+#cmdContainer {
+    margin-top: 5vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+}
+
+#cmdContainer button {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.disabled {
+    background-color: #ccc;
+    color: #666;
+    cursor: not-allowed;
+}
+
+.enabled {
+    background-color: #4CAF50; /* Green */
+    color: white;
+    cursor: pointer;
+}
+
+.leaflet-nation-labels {
+    padding-left: -10px;
+    margin-left: -40px !important;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: center;
+    color: #212529;
+    /* Use color, background, set margins for offset, etc */
+}
+.leaflet-map-labels {
+    padding-left: -10px;
+    margin-left: -40px !important;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: center;
+    color: #212529;
+    /* Use color, background, set margins for offset, etc */
+}
+
+.leaflet-geographical-labels {
+    padding-left: -10px;
+    margin-left: -40px !important;
+    font-size: 12px;
+    font-weight: 700;
+    white-space: nowrap;
+    text-align: center;
+    color: #212529;
+    /* Use color, background, set margins for offset, etc */
+}
+#map-container {
+    position: relative;
+}
+
+#map {
+    height: 98vh;
+    z-index: 1;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.flex-container-routes {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+#map {
+    max-width: 80%;
+}
+.container-menu {
+    width: 25%;
+    background-color: #212529;
+    color: #dcdbdb;
+}
+
+.main-body {
+    padding: 1vh;
+    font-size: 1.2rem;
+}
+
+.title {
+    padding: 1vh;
+    font-size: 3rem;
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.entry {
+    width: calc(100% - 4vh);
+    background: #dcdbdb;
+    margin: 1vh;
+    color: #212529;
+    padding: 1vh;
+}
+.entry-title-delete {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.entry-color-thickness, .entry-speed-time {
+    display: flex;
+    align-items: center;
+    margin-top: 1vh;
+}
+.entry-color-thickness input[type="color"] {
+    margin-right: 1vh;
+}
+.entry-speed-time input[type="number"] {
+    margin-right: 1vh;
+}
+
+#entityDetails {
+    transition: width 0.15s ease, z-index 0.3s ease;
+    overflow: hidden;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between; /* Adjust as needed */
+    gap: 10px; /* Space between buttons, adjust as needed */
+}
+
+.button-container button {
+    flex: 1; /* Make buttons take equal space */
+    padding: 10px; /* Adjust padding as needed */
+    /* Additional styling as needed */
+}

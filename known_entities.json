@@ -1,0 +1,15 @@
+  {
+    "0000": {
+      "type": "Airbase",
+      "name": "GI",
+      "lat": 43.22650713190408,
+      "lon": -75.40733637289976,
+      "nation": "Gallifrey"
+    },
+    "0001": {
+      "type": "fort",
+      "lat": 51.501476,
+      "lon": -0.140634,
+      "nation": "Gallifrey"
+    }
+  }

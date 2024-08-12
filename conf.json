@@ -1,0 +1,21 @@
+{
+  "Mars_PORT": "3001",
+  "Mars_IP": "192.168.13.114",
+  "WS_SEND_DELAY": 100,
+  "PING_EXPIRY": 10,
+  "0": {
+    "ICARUS_SERVER_IP": "172.20.1.11",
+    "ICARUS_SERVER_PORT": 4567,
+    "NATION": "Gallifrey"
+  },
+  "1": {
+    "ICARUS_SERVER_IP": "10.65.2.5",
+    "ICARUS_SERVER_PORT": 53945,
+    "NATION": "Malazan"
+  },
+  "2": {
+    "ICARUS_SERVER_IP": "10.76.81.100",
+    "ICARUS_SERVER_PORT": 45671,
+    "NATION": "Valinor"
+  }
+}
